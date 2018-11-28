@@ -1,2 +1,2 @@
-# Transition-Gallery
+# Transition Gallery
 Images gallery using transition 
